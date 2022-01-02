@@ -2,8 +2,9 @@ import './App.css';
 import * as React from 'react';
 import { useState } from 'react';
 import ReactMapGL from 'react-map-gl';
-
+import mapboxgl from "mapbox-gl";
 function App() {
+
   const [viewport, setViewport] = useState({
     width: "100vw",
     height: "100vh",
