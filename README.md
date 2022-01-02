@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Interactive maps in React with Mapbox
+Using react-map-gl requires node >= v4 and react >= 16.3
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://visgl.github.io/react-map-gl/docs/get-started/get-started
 
 ## Available Scripts
 
